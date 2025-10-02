@@ -1,0 +1,16 @@
+kymatio==0.3.0
+matplotlib==3.10.3
+numpy==1.24.0
+opencv_python==4.11.0.86
+Pillow==11.3.0
+progressbar33==2.4
+protobuf==3.19.6
+scikit_learn==1.7.0
+scipy==1.16.0
+spams==2.6.5.4
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
+torch==1.12.0
+torchinfo==1.8.0
+torchvision==0.13.0
+tqdm==4.67.1
